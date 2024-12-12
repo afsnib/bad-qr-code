@@ -1,4 +1,6 @@
 # bad-qr-code
+<h1>Merry Phishmas</h1>
+
 This isn't the QR you're looking for.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJbV4E13SIp7ROY0FMEetsyGCLEl5lw4Ku8A&s" />
